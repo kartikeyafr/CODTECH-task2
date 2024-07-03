@@ -1,1 +1,15 @@
 # CODTECH-task2
+**NAME**: Kartikeya Chandna
+**COMPANY**: CODTECH IT SOLUTIONS
+**ID**: CT12PD154
+**DOMAIN**:PYHTON PROGRAMMING
+**DURATION**: 14th May to 1st July
+**MENTOR**: SRAVANI GOUNI
+
+**OBJECTIV**
+TO CREATE AN SOCIAL MEDIA WEBSITE
+
+
+![image](https://github.com/kartikeyafr/CODTECH-task2/assets/170734773/96c1638a-4222-45a5-8287-ac9224f6f739)
+
+
